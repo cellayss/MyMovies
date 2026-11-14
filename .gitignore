@@ -1,0 +1,34 @@
+# Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
+
+# Android
+android/local.properties
+
+# Environment and secrets
+env.json
+.env
+.env.*
+!env.example.json
+
+# Personal files
+*.zip
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
